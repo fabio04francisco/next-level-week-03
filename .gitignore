@@ -1,0 +1,8 @@
+.vscode
+web/node_modules
+web/.env
+backend/node_modules
+mobile/node_modules/**/*
+mobile/.expo/*
+
+
