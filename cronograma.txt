@@ -1,12 +1,9 @@
 NFL - 3
 
-Link: https://nextlevelweek.com/episodios/omnistack/1/edicao/3?utm_source=convertkit&utm_medium=email&utm_campaign=NLW3+Workshops&utm_term=Leads+OmniStack&utm_content=Workshop+1
-
-Dia 1 = 12/10
+Dia 1
 12-10 - 00:00:00 até 01:54:00 finalizado
 
-
-Dia 2 = 13/10
+Dia 2
 13-10 - 00:00:00 até 00:29:42
 14-10 - 00:29:43 até 00:43:04
 15-10 - 00:43:05 até 00:58:01
@@ -14,4 +11,7 @@ Dia 2 = 13/10
 16-10 - 01:04:10 até 01:18:36
 17-10 - 01:18:37 até 01:21:13
 18-10 - 01:21:14 até 01:48:11
-20-10 - 01:48:12 até 
+20-10 - 01:48:12 até 01:55:14
+
+Dia 3
+19-10 - 00:00:00 até 
