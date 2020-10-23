@@ -6,6 +6,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  /* padding: 50px; */
 }
 
 #page-landing .content-wrapper {
@@ -21,7 +22,7 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
-
+  /* background-size: auto 100%; */
   background: url('../../images/landing.svg') no-repeat 80% center;
 }
 
